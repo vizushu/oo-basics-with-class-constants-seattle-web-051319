@@ -18,4 +18,4 @@ class Shoe
   end
 end
 
-Shoe.new("Uggs", "Rainbow", "Nike", "Nike")
+Shoe.new("Uggs")
