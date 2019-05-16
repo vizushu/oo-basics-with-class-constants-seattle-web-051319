@@ -17,5 +17,3 @@ class Shoe
     BRANDS << brand
   end
 end
-
-Shoe.new("Uggs")
